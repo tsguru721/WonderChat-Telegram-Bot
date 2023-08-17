@@ -1,0 +1,15 @@
+{
+  "name": "pm2-logs",
+  "version": "1.0.0",
+  "description": "pm2 logs",
+  "main": "app.js",
+  "author": "@rsmnarts",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/rsmnarts/log-pm2-telegramBot",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "pm2": "^3.5.1"
+  }
+}
